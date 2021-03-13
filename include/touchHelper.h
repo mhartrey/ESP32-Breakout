@@ -1,3 +1,4 @@
+#include "main.h"
 
 // This is the file name used to store the touch coordinate
 // calibration data. Change the name to start a new calibration.
