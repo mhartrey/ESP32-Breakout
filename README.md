@@ -13,5 +13,6 @@
 Ported to ESP32 and using PlatformIO IDE
 
 Using the Bodmer TFT_eSPI library
+
 Touch screen calibration stored in LITTLEFS (SPIFFS)
 - to recalibrate set REPEAT_CALIBRATION to true in touchHelper.h
